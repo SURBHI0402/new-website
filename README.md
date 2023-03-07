@@ -1,6 +1,8 @@
 # new-website
 website
  https://github.com/SURBHI0402/website.2.git
+ ![image](https://user-images.githubusercontent.com/81684867/223327755-ff339200-a3df-439c-9d39-4f70374df692.png)
+
  ![image](https://user-images.githubusercontent.com/81684867/223327581-7f1c77ad-1160-488e-96f9-9fad11dc05db.png)
  
  ![image](https://user-images.githubusercontent.com/81684867/223327452-99495448-8fe3-43bf-b83c-a1f87490e0c5.png)
